@@ -1,9 +1,9 @@
-# Librewolf-Easy-Install-Script-for-Linux
+# Librewolf-Easy-Install
 Quick install of librewolf using apt  
 
 USAGE: ./librewolfinstall.sh
 
-What is LibreWolf?
+# What is LibreWolf?
 
 This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom.
 
