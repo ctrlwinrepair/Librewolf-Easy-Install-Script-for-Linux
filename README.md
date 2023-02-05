@@ -1,7 +1,9 @@
 # Librewolf-Easy-Install
 Quick install of librewolf using apt  
 
-USAGE: ./librewolfinstall.sh
+# USAGE: 
+
+./librewolfinstall.sh
 
 # What is LibreWolf?
 
