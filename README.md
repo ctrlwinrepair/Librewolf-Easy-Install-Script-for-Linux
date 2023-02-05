@@ -1,2 +1,9 @@
 # Librewolf-Easy-Install-Script-for-Linux
 Quick install of librewolf using apt  
+
+
+What is LibreWolf?
+
+This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom.
+
+LibreWolf is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. This is achieved through our privacy and security oriented settings and patches. LibreWolf also aims to remove all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM.
